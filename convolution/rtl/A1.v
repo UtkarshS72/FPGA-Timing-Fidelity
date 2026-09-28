@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module conv3x3_seq_shift(
+module A1(
     input clk,
     input rst,
     input start,
